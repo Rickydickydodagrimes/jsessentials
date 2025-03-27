@@ -49,11 +49,7 @@ xhr.onload = function(){
         articlesDiv.appendChild(articleDiv);
       });
     
-      var articleDiv = document.createElement('div');
     
-      articleDiv.classList.add('article');
-    
-      articleDiv.appendChild(title);
    
 }
  
