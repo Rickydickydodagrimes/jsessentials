@@ -47,10 +47,7 @@ xhr.onload = function(){
         articleDiv.appendChild(benefitsList);
     
         articlesDiv.appendChild(articleDiv);
-      });
-    
-    
-   
+      });   
 }
  
 xhr.send();
